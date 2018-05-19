@@ -1,5 +1,5 @@
 # ABP Globe Rules after Redundancy Checks
-Lazy updates after Redundancy check for Adblock Plus - by Famlam who create https://arestwo.org/famlam/redundantRuleChecker.html, and deserve credit here.
+Lazy updates after Redundancy check for Adblock Plus - by Famlam who creates https://arestwo.org/famlam/redundantRuleChecker.html, and deserve credit here.
 
 ## ⚠ IMPORTANT ⚠
 > **ALL RULES OR FILTERS IN THIS PLACE IS NOT ORIGINATED FORM ME**

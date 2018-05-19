@@ -2,7 +2,7 @@
 Lazy updates after Redundancy check for Adblock Plus - by Famlam who create https://arestwo.org/famlam/redundantRuleChecker.html, and deserve credit here.
 
 ## ⚠ IMPORTANT ⚠
-> **ALL RULES IN THIS PLACE IS NOT ORIGINATED FORM ME**
+> **ALL RULES OR FILTERS IN THIS PLACE IS NOT ORIGINATED FORM ME**
 
 > **ANY ERRORS OCCUR PLEASE CONTACT THE RELEVANT AUTHORS**
 

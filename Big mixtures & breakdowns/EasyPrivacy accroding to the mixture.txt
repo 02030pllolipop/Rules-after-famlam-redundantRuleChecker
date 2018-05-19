@@ -1,15 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 201805190901
-! Title: EasyPrivacy
-! Last modified: 19 May 2018 09:01 UTC
-! Expires: 4 days (update frequency)
-! Homepage: https://easylist.to/
-! Licence: https://easylist.to/pages/licence.html
-! 
-! Please report any unblocked tracking or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist.subscription@gmail.com).
-! 
+
 ! -----------------General tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 &ctxId=*&pubId=*&clientDT=

@@ -1,5 +1,4 @@
 [Adblock Plus 2.0]
-! Checksum: k0IPApv3jOJOp36wlz/oXA
 
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
@@ -362,6 +361,7 @@ _xiuno_com_ad/
 |http://*/s.js?sp=*&r=$third-party
 |http://ad.
 |http://gg.$third-party,domain=~guagua.cn
+
 !------------------------General element hiding rules-------------------------!
 ###MsnDialog.ad
 ###MyMoveAd
@@ -634,6 +634,7 @@ _xiuno_com_ad/
 ##script + .sptable[cellpadding="5"]
 ##script + .sptable_do_not_remove[cellpadding="5"]
 ##table[style="border:#e8e8e8 1px solid;"] + div[style="margin-top:5px"] > table[style="width:100%;"][cellspacing="0"][cellpadding="1"][bordercolor="#999999"][border="1"]
+
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn^
 ||sigo99.com^

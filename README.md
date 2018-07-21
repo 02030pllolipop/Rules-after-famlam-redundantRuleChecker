@@ -2,9 +2,10 @@
 Filters and rules after Redundancy check for Adblock Plus - by Famlam who creates https://arestwo.org/famlam/redundantRuleChecker.html, and deserves credit here.
 
 ## ⚠ IMPORTANT ⚠
-> **ALL RULES OR FILTERS IN THIS PLACE IS NOT ORIGINATED FORM ME**
+> **ALL RULES OR FILTERS IN THIS PLACE IS NOT ORIGINATED FORM ME 
+(SEE Orig. Author Info. List.txt)**
 
-> **ANY ERRORS OCCUR PLEASE CONTACT THE RELEVANT AUTHORS**
+> **ANY ERROR OCCURS PLEASE CONTACT THE RELEVANT AUTHORS**
 
 ## About
 > This is a resting place for some globle rules or filters (in .txt format) whose owners or users have no interest on upating them because of out-of-life or simply are-not-necessary. RIP! Some of the greatest filters (You guys can still serve your purposes though, sort of...).

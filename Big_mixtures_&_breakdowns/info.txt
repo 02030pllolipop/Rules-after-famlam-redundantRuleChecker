@@ -1,0 +1,16 @@
+All the mixture has been performed in the following order:
+1. Redundant check within themselves 
+2. Cross check among the lists in the mixture
+3. Cross check with the Easylist rule, and doing 2. each time after that cross check (https://easylist.to/easylist/easylist.txt)
+4. One final cross check among the lists in the mixture
+5. If more errors, more cross check :P
+
+The breakdown labels for the mixture are listed as below:
+(A,B,C... means they are came from the same mixture A, B or C... Numbers behind are sub-parts of the relevant single lists)
+
+A1: Chinese website rules
+A2: Easy List private
+B: AAK-Cont Filter and AakList
+Self-made_mixture: B plus some lines of self modifications.
+
+***All of them is only updated to the upload date, which depends on the crashes I encounter XP

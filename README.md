@@ -12,3 +12,12 @@ Filters and rules after Redundancy check for Adblock Plus - by Famlam who create
 > For the 'mixture' of two or more rules or filters, the big ones need break down to work properly which is according to the after-checking result of the 'mixture'.
 
 > You can request adding of your own filters (even after new styles of redundancy checking!) to this place (a host actually...).
+
+## Recent development 
+(too lazy to add comit comment :P, the most recent is on top)
+
+Work with the organisation of the mixture to reduce file size which can ensure workability. Note is rewriiten on the info.txt.
+Also, name of the files are changed for simplifcatiion.
+
+========= Old comments below =========
+Nil >:D

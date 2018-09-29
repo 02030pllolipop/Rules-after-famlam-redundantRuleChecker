@@ -17,7 +17,7 @@ Filters and rules after Redundancy check for Adblock Plus - by Famlam who create
 ## Recent development 
 >  (too lazy to add comit comment :P, the most recent is on top)
 
-> Work with the organisation of the mixture to reduce file size which can ensure workability. Note is rewriiten in the [info.txt]().
+> Work with the organisation of the mixture to reduce file size which can ensure availability. Notes are rewriiten in the [info.txt]().
 Also, name of the files are changed for simplifcatiion.
 
 ========= Old comments below =========

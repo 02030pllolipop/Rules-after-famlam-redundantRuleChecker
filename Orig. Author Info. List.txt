@@ -49,3 +49,28 @@
 ! in the forums (https://forums.lanik.us/)
 ! or via e-mail (easylist.subscription@gmail.com).
 ! 
+
+! Checksum: Cy1hNziCwWiuETgMJvHqgg
+! Title: Fanboy's problematic-sites
+! Updated: 19 May 2018
+! Expires: 2 days
+! License: http://creativecommons.org/licenses/by/3.0/
+! Homepage: http://www.fanboy.co.nz/
+! Reporting Issues: https://github.com/ryanbr/fanboy-adblock/issues
+!
+!---------- Anti Adblock & Anti Adblock Tracking ------
+! These filters are for websites tracking and monitoring adblock users
+!
+
+! Checksum: e4I3eh29YvaV7CWihrSi7Q
+! Title: Fanboy's Anti-thirdparty Fonts
+! Updated: 19 May 2018
+! Expires: 6 days
+! License: http://creativecommons.org/licenses/by/3.0/
+! Homepage: http://www.fanboy.co.nz/
+! Reporting Issues: https://github.com/ryanbr/fanboy-adblock/issues
+! Warning, will break the "look and design" of some sites.
+!
+! Legal stuff (T&C's) .
+! In no event shall Fanboy List, or the list author be liable for any indirect, direct, punitive, special, incidental, or consequential damages whatsoever.
+! By downloading or viewing, or using this list, you are accepting these terms and the lic

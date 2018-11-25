@@ -14,6 +14,6 @@ A2: Easy List private
 B: AAK-Cont Filter and AakList
 Self-made_mixture: B plus some lines of self modifications.
 
-C: Fanboy's Other Filters
+C1-2: Fanboy's Other Filters
 
 ***All of them is only updated to the upload date, which depends on the crashes I encounter XP
